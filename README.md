@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi, I'm HOANG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HOÀNG AK][website] = Software Engineer + Youtuber 🌻  
 
-<!--
-**hoangakccm/hoangakccm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Passion in something ... (secret😊)
+- 💪 2022 Goals: Learning many things in Java
+- ⭐: DESIGN, listening to music, walking, playing piano... and blade wind😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :zap: GitHub Stats
+
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoangakccm&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangakccm&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
+</tr>
+<table>
+
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
+
+---
+
+### 📺 YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [TỰ HỌC DJANGO CƠ BẢN #2: KHỞI TẠO DATABASE](https://www.youtube.com/watch?v=GOuK9G3zsU0)
+- [LẬP TRÌNH TODOLIST APP - FLASK #11: TRIỂN KHAI ỨNG DỤNG TRÊN DOCKER](https://www.youtube.com/watch?v=SB8rR3qXs7w)
+- [TỰ HỌC DJANGO CƠ BẢN #1: KHỞI TẠO VIEWS ĐẦU TIÊN](https://www.youtube.com/watch?v=q6wpserIMQ8)
+- [HƯỚNG DẪN CÀI ĐẶT DJANGO FRAMEWORK TRÊN ANACONDA!](https://www.youtube.com/watch?v=NQKMoj_FYbY)
+- [DỰ ÁN WEB TRAVEL ADVISOR BẰNG ReactJS, GOOGLE API, RAPID API](https://www.youtube.com/watch?v=BOTmB5qhAJA)
+<!-- YOUTUBE:END -->
+
+---
+
+### 📫 Contact me via:
+- EMAIL: lathanhmta@gmail.com
+- YOTUBE: THÀNH IT
+
+[website]: https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A
