@@ -7,20 +7,26 @@
 
 ### :zap: GitHub Stats
 
-<table>
-<tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=hoangakccm&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangakccm&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
-</tr>
-<table>
-
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hoangakccm&show_icons=true&hide=contribs,issues&hide_border=true"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangakccm&layout=compact&show_icons=true&hide_border=true"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://raw.githubusercontent.com/ThanhLa1802/ThanhLa1802/main/.github/assets/coding.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 ### Languages and Tools:
-<img align="left" alt="Android Studio" width="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+<p align="center">
+  <img width="50px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
+  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
+  <img width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+</p>
+
 ---
 
 ### 📺 YouTube Videos
