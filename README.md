@@ -27,7 +27,11 @@
   <img width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+<img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" > 
+</p>
 
 ### 📺 YouTube Videos
 
@@ -39,7 +43,7 @@
 - [MẠNG MÁY TÍNH - HAUI](https://www.youtube.com/watch?v=84dk3kGTyuM&list=PL-j8g9kOIaOke6r1NaUiT9dWWVewMPDfr)
 <!-- YOUTUBE:END -->
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📫 Contact me via:
 - EMAIL: vuhuyhoang.ktmt@gmail.com
