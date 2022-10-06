@@ -20,6 +20,7 @@
     </td>
   </tr>
 </table>
+
 ### Languages and Tools:
 <p align="center">
   <img width="50px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
