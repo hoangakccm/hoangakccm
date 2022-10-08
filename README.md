@@ -24,8 +24,8 @@
 ### Languages and Tools:
 <p align="center">
   <img width="50px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" />
-  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
   <img width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
