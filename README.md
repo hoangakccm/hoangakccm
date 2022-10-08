@@ -37,11 +37,11 @@
 ### 📺 YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [QUẢN TRỊ MẠNG - HAUI](https://www.youtube.com/watch?v=PArOd1FrPCI&list=PL-j8g9kOIaOmHKWFgrGVA5jL0IK4-d0f_)
+- [MẠNG MÁY TÍNH - HAUI](https://www.youtube.com/watch?v=84dk3kGTyuM&list=PL-j8g9kOIaOke6r1NaUiT9dWWVewMPDfr)
 - [Bài thực hành 1: Cấu hình cơ bản cho Router](https://www.youtube.com/watch?v=MzfLVdmRves&t=27s)
 - [Cấu hình DNS server trong Cisco Packet Tracer](https://www.youtube.com/watch?v=T_lkvbGrYAg&t=267s)
 - [Bài thực hành 01: Lập trình truyền thông qua cổng COM - KTGNMT - HaUI](https://www.youtube.com/watch?v=q6wpserIMQ8)
-- [QUẢN TRỊ MẠNG - HAUI](https://www.youtube.com/watch?v=PArOd1FrPCI&list=PL-j8g9kOIaOmHKWFgrGVA5jL0IK4-d0f_)
-- [MẠNG MÁY TÍNH - HAUI](https://www.youtube.com/watch?v=84dk3kGTyuM&list=PL-j8g9kOIaOke6r1NaUiT9dWWVewMPDfr)
 <!-- YOUTUBE:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
