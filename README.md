@@ -3,7 +3,7 @@
 
 - 🔭 Passion in something ... (secret😊)
 - 💪 2022 Goals: Learning many things in Java
-- ⭐: DESIGN, listening to music, walking, playing piano... and blade wind😅
+- ⭐: DESIGN, listening to music, walking, playing game... and blade wind😅
 
 ### :zap: GitHub Stats
 
