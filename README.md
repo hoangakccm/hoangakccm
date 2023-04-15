@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2022 Goals: Learning many things in Java
+- 💪 2023 Goals: Learning many things in Kotlin
 - ⭐: DESIGN, listening to music, walking, playing game... and blade wind😅
 
 ### :zap: GitHub Stats
