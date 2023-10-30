@@ -1,4 +1,4 @@
-### Hi, I'm Hoàng Ak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HOÀNG AK][website] = Software Engineer + Youtuber 🌻  
+### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [HOÀNG AK][website] = Software Engineer + Youtuber 🌻  
 
 
 - 🔭 Passion in something ... (secret😊)
